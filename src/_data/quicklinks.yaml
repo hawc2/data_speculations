@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
+  - title: Data Speculations
+    url: "https://master--strong-muffin-bb3d74.netlify.app/"
+    desc: A National Forum on Sharing Copyrighted Culture Collections
+  - title: Collections as Data
+    url: "collectionsasdata.github.io"
+    desc: A movement to make cultural collections and archives available as data
+  - title: National Forum
     url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
+    desc: The 2024 event bringing together scholars working on copyright and cultural data.
+  - title: Guidelines
     url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+    desc: A growing set of resources for librarians and scholars working with copyrighted data..
