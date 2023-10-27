@@ -3,7 +3,7 @@ items:
   - text: About
     url: "#"
   - text: People
-    url: "/people/index.md"
+    url: "/people/"
   - text: Resources
     url: "#"
   - text: Blog
