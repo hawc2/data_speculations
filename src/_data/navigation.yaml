@@ -1,10 +1,10 @@
 ---
 items:
   - text: About
-    url: "#"
+    url: "/about"
   - text: People
-    url: "/people/"
+    url: "/people"
   - text: Resources
-    url: "#"
+    url: "/resources"
   - text: Blog
     url: "/blog"
