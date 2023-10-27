@@ -5,6 +5,6 @@ items:
   - text: People
     url: "/people"
   - text: Resources
-    url: "/resources"
+    url: "#"
   - text: Blog
     url: "/blog"
